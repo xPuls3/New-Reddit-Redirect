@@ -1,3 +1,5 @@
+**This no longer works as of 2025 as Reddit killed off new.reddit.com.**
+
 # New Reddit Redirect
 
 This script gets rid of the terrible new green UI reddit is pushing, and takes you back to the black one.
